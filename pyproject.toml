@@ -13,5 +13,4 @@ dependencies = [
     "numpy>=2.3.1",
     "pandas>=2.3.1",
     "photutils>=2.3.0",
-    "pyqt6>=6.10.2",
 ]
