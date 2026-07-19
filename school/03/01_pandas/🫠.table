@@ -1,0 +1,32 @@
+*** STAR CATALOG ***
+Exported: sometime last Tuesday
+
+>> hip_id:::apparent_magnitude:::discovery_date:::is_variable:::name <<
+>> 32349:::-1.46:::1843-01-01:::false:::Sirius <<
+>> 30438:::-0.74:::1834-01-01:::false:::Canopus <<
+>> 69673:::-0.05:::1603-01-01:::false:::Arcturus <<
+>> 71683:::-0.27:::1917-01-01:::false:::Alpha Centauri A <<
+>> 91262:::0.03:::1596-01-01:::false:::Vega <<
+>> 24608:::0.08:::1700-01-01:::false:::Capella <<
+>> 24436:::0.13:::1718-01-01:::false:::Rigel <<
+>> 37279:::0.34:::1843-01-01:::false:::Procyon <<
+>> 27989:::0.45:::1836-01-01:::true:::Betelgeuse <<
+>> 65721:::0.61:::1672-01-01:::false:::Hadar <<
+>> 25336:::0.71:::1603-01-01:::false:::Achernar <<
+>> 68702:::1.25:::1672-01-01:::false:::Acrux <<
+>> 21421:::0.86:::1843-01-01:::false:::Aldebaran <<
+>> 80763:::0.91:::1672-01-01:::false:::Antares <<
+>> 37826:::1.14:::1783-01-01:::false:::Pollux <<
+>> 113368:::1.17:::1596-01-01:::false:::Fomalhaut <<
+>> 102098:::1.25:::1603-01-01:::false:::Deneb <<
+>> 97649:::1.63:::1603-01-01:::false:::Altair <<
+>> 65474:::1.98:::1603-01-01:::true:::Spica <<
+>> 62956:::1.35:::1603-01-01:::false:::Regulus <<
+>> 49669:::1.36:::1603-01-01:::false:::Bellatrix <<
+>> 25428:::1.65:::1783-01-01:::false:::Elnath <<
+>> 85927:::1.62:::1672-01-01:::false:::Shaula <<
+>> 54061:::1.77:::1603-01-01:::false:::Dubhe <<
+
+END OF FILE
+total stars: count yourself
+checksum: 0xDEADCROW
