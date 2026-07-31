@@ -6,12 +6,14 @@ readme = "README.md"
 requires-python = "~=3.12.0"
 dependencies = [
     "astroquery>=0.4.11",
+    "dearpygui>=2.3.1",
     "ipyaladin>=0.7.0",
     "ipykernel>=6.29.5",
     "ipympl>=0.10.0",
     "lightkurve>=2.5.1",
     "matplotlib>=3.10.3",
     "numpy>=2.3.1",
+    "openpyxl>=3.1.5",
     "pandas>=2.3.1",
     "photutils>=2.3.0",
 ]
